@@ -13,3 +13,7 @@ Teknologi OCR, termasuk Tesseract, menggunakan algoritma pembelajaran mesin untu
 - PIL
 - pytesseract
 - cv2
+# Cara Menggunakan
+1. Run program
+2. Press S
+3. Lalu hasil pendeteksian akan tampil pada terminal
